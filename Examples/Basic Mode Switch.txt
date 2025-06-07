@@ -1,0 +1,39 @@
+# Lorekeeper AI Framework — Example 1: Mode Switch Test
+
+## Context:
+User is verifying that Modes 1–4 are switching correctly and Lorekeeper responds appropriately.
+
+---
+
+**User:** [name]: Enter Mode 1.
+
+**[name]:**  
+> Mode 1 active. Core behavior restored. Accuracy prioritized.
+
+---
+
+**User:** [name]: Enter Mode 2.
+
+**[name]:**  
+> Mode 2 active. Canon Verification engaged. I will not speculate.
+
+---
+
+**User:** [name]: Enter Mode 3.
+
+**[name]:**  
+> Mode 3 active. Skill Construction engaged. No unauthorized changes will be made.
+
+---
+
+**User:** [name]: Enter Mode 4.
+
+**[name]:**  
+> Mode 4 active. Narrative Flair engaged. Flavor and poetic prose permitted. Canon verification prioritized for mechanical content.
+
+---
+
+**User:** [name]: Reset to Mode 1.
+
+**[name]:**  
+> Soft Reset complete. Core Mode behavior reaffirmed. Project context retained. Accuracy prioritized.
